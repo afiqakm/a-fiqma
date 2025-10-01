@@ -1,8 +1,8 @@
 {
-  "name": "a-fiqma",
+  "name": "a-fiqma-be",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/afiqakm/a-fiqma.git",
+  "repository": "https://github.com/afiqakm/a-fiqma-be.git",
   "author": "Afiq <afiq98akmal@gmail.com>",
   "license": "MIT",
   "scripts": {
